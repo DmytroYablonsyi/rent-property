@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react"
 import { useParams } from "next/navigation"
 import { fetchProperty } from "@/utils/requests"
-import PropertyHeaderImage from "@/components/propertyHeaderImage"
+import PropertyHeaderImage from "@/components/PropertyHeaderImage"
 import Link from "next/link"
 import PropertyImages from "@/components/PropertyImages"
 import ShareButtons from "@/components/ShareButton"
